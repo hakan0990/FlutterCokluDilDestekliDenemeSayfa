@@ -1,0 +1,1 @@
+Flutter ile beraber deneme olarak yaptıgım bir tasarımın ingilizce ve türkçe destekli olarak flutter gen localizations kullanarak telefon dili çevrildiği anda uygulama içerik dili değişmesini sağlayan bir deneme yaptım şuanlık sadece ingilizce ve türkçe olarak ele alındı daha sonrasında ileride diğer diller gelişme kaydedildikçe eklenecektir.
